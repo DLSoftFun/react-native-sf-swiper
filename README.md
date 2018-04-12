@@ -8,6 +8,6 @@
 |  parameter  |  type  |  required  |   description  |  default  |
 |:-----|:-----|:-----|:-----|:-----|
 |loop|boolean|no|是否循环轮播|true|
-|autoplay|boolean|no|是否显示分享按钮|true|
-|autoplayTimeout|number|no|点击分享事件|()=>null|
-|showsPagination|boolean|no|点击分享事件|()=>null|
+|autoplay|boolean|no|是否自动轮播|true|
+|autoplayTimeout|number|no|自动轮播间隔|2.5|
+|showsPagination|boolean|no|是否显示页|true|
