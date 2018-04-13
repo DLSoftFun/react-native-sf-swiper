@@ -1,5 +1,8 @@
 # react-native-sf-swiper
+
 # react-native 轮播图
+
+![show](./demo.gif)
 
 # 安装
 * npm i react-native-sf-swiper --save
