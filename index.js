@@ -1,5 +1,4 @@
-/**
- * Created by Joker on 2018-04-13.
- */
-import SFSwiper from "./src/SFSwiper"
-export default SFSwiper
+import { AppRegistry } from 'react-native';
+import App from './App';
+
+AppRegistry.registerComponent('SFSwiper', () => App);
