@@ -5,7 +5,7 @@
 ![show](./demo.gif)
 
 # 安装
-* npm i react-native-sf-swiper --save
+* npm i react-native-sf-swiper
 
 # Props
 |  parameter  |  type  |  required  |   description  |  default  |
